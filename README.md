@@ -39,7 +39,7 @@ Atualmente, estou em formação como Desenvolvedor Java Júnior no Bootcamp de J
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hixdann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
     alt="Github Stats"
-    width="350"
+    width="325"
   />
 </td>
 
