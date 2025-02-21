@@ -32,14 +32,14 @@ Atualmente, estou em formação como Desenvolvedor Java Júnior no Bootcamp de J
 
 ## ⭐ GitHub Stats
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hixdann&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github" width="425">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hixdann&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github" width="400">
 
 <td>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hixdann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
     alt="Github Stats"
-    width="375"
+    width="350"
   />
 </td>
 
