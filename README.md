@@ -9,7 +9,7 @@ Atualmente, estou em formação como Desenvolvedor Java Júnior no Bootcamp de J
   <a href="mailto:danilo.f.almeida@outlook.com">
   <img src="https://img.shields.io/badge/-Email-FEDC00?style=flat-square&logo=mail&logoColor=black" alt="Email"/>
 </a>
-  <a href="https://www.linkedin.com/in/danilo-ferreira-de-almeida/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/danilo-ferreira-de-almeida/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
